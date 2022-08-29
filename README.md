@@ -23,5 +23,5 @@ The request from a client was to display a table organizing UFO data stored as a
 ### How the filters appear after being used: 
 By typing in the suggested placeholder elements as the filters, the result returns 2 matches.  Make sure to type everything in lower case letters and do not have spaces at the end of the text.  Click off the input box or press enter to initiate the filter.  To reset the filter criteria, click the UFO Sightings at the top left of the website. 
 
-![Pic 3](https://github.com/sbellorin/UFOs/blob/223e0063cc38fc1772d57938a2d71328597e16cd/static/images/working_fiplters.png)
+![Pic 3](https://github.com/sbellorin/UFOs/blob/dc365b9eed25ecdc8d883c7ea4eb673ce2a8f22f/static/images/working_filters.png)
 
